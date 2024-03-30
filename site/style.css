@@ -1,0 +1,103 @@
+.content {
+  margin: 0 auto;
+  width: 2000px;
+  border: solid 1px gray;
+  background-color: rgb(15, 4, 30);
+}
+.head {
+  justify-content: space-between;
+  width: 1300;
+  text-align: center;
+  text-decoration: none;
+}
+.img1 {
+  position: relative;
+  left: -200px;
+}
+.btn1 {
+  position: relative;
+  right: -200px;
+  width: 150px;
+  height: 30px;
+  background-color: aqua;
+  border: none;
+}
+.head a {
+  text-decoration: none;
+  color: white;
+  gap: 30px;
+  padding-right: 15px;
+}
+.img2 {
+  width: 1300px;
+  margin-top: 50px;
+}
+main {
+  text-align: center;
+}
+.img3 {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+.container1 {
+  display: flex;
+  position: relative;
+  left: 20%;
+}
+.con1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img4 {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+.img5 {
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+.img6 {
+  margin-left: 40px;
+  margin-bottom: 20px;
+}
+.img7 {
+  margin-left: 40px;
+}
+.img8 {
+  margin-left: -100px;
+}
+.img9 {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+.img10 {
+  position: relative;
+  top: -80px;
+}
+.img11 {
+  position: relative;
+  left: 100px;
+}
+.container2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img12 {
+  position: relative;
+  top: -153px;
+  left: 100px;
+}
+.img13 {
+  position: relative;
+  bottom: -153px;
+  right: 300px;
+}
+.im14 {
+  position: relative;
+  left: 100px;
+}
+.pp {
+  color: white;
+}
